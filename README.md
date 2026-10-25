@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/blessyjustin">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  </a><br/>
   <img src="https://img.shields.io/badge/C%23-Developer-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp"/>
   <img src="https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 </p>
