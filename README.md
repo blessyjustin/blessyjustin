@@ -80,15 +80,6 @@ A web-based clothing e-commerce application developed using ASP.NET Web Forms to
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blessyjustin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessyjustin&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/blessyjustin
